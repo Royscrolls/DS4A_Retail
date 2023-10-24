@@ -6,7 +6,7 @@ Following files are included:
 2. pdf version of presentation
 3. Loom Link for presentation : https://www.loom.com/share/a73c26a42b884818b68b1261fc7247c6?sid=5fc49ad3-cd9a-4d8b-af9f-16dafbe6eb83
 
-The notebook is divided into teh following sections
+The notebook is divided into the following sections
 1.0 Preprocessing + Feature Engineering
 2.0 Visualizations
 3.0 Prepping Data for Clustering
